@@ -1,2 +1,2 @@
 # Project-Management
-Project management database for my dissertation
+Project management dashboard that I created for my dissertation
